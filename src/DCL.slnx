@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DCL.API/DCL.API.csproj" />
+  <Project Path="DCL.Application/DCL.Application.csproj" />
+  <Project Path="DCL.Domain/DCL.Domain.csproj" />
+  <Project Path="DCL.Infrastructure/DCL.Infrastructure.csproj" />
+</Solution>

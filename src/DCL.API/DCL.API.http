@@ -1,0 +1,6 @@
+@DCL.API_HostAddress = http://localhost:5190
+
+GET {{DCL.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
